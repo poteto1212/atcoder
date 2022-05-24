@@ -1,0 +1,55 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "/root/opt/part1/test.py",
+            "console": "internalConsole",
+            "justMyCode": true,
+            // "args": [
+            //     "<",
+            //     "/root/opt/part1/input.txt"
+            // ]
+            
+        } ,
+        {
+            "name": "001-Print 5 + N",
+            "type": "python",
+            "request": "launch",
+            "program": "/root/opt/part2/print_5_sum_n.py",
+            "console": "internalConsole",
+            "justMyCode": true,
+        },
+        {
+            "name": "002 - Sum of 3 Integers",
+            "type": "python",
+            "request": "launch",
+            "program": "/root/opt/part2/sum_of_3_integer.py",
+            "console": "internalConsole",
+            "justMyCode": true,
+        }
+        ,
+        {
+            "name": " 004 - Product of 3 Integers",
+            "type": "python",
+            "request": "launch",
+            "program": "/root/opt/part2/product_of_3_integers.py",
+            "console": "internalConsole",
+            "justMyCode": true,
+        }
+        ,
+        {
+            "name": "005 - Modulo 100",
+            "type": "python",
+            "request": "launch",
+            "program": "/root/opt/part3/005-modulo_100.py",
+            "console": "internalConsole",
+            "justMyCode": true,
+        }
+    ]
+}
